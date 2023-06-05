@@ -1,0 +1,62 @@
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\bin\Debug\net6.0-windows\CrystalCollector.exe
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\bin\Debug\net6.0-windows\CrystalCollector.deps.json
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\bin\Debug\net6.0-windows\CrystalCollector.runtimeconfig.json
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\bin\Debug\net6.0-windows\CrystalCollector.dll
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\bin\Debug\net6.0-windows\CrystalCollector.pdb
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.csproj.AssemblyReference.cache
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.Form1.resources
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.csproj.GenerateResource.cache
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.AssemblyInfoInputs.cache
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.AssemblyInfo.cs
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.csproj.CoreCompileInputs.cache
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.dll
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\obj\Debug\net6.0-windows\refint\CrystalCollector.dll
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.pdb
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.genruntimeconfig.cache
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\obj\Debug\net6.0-windows\ref\CrystalCollector.dll
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.FrmCreacionPersonaje.resources
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.FrmTablero.resources
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\ProyectoFinal\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.Properties.Resources.resources
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\bin\Debug\net6.0-windows\CrystalCollector.exe
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\bin\Debug\net6.0-windows\CrystalCollector.deps.json
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\bin\Debug\net6.0-windows\CrystalCollector.runtimeconfig.json
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\bin\Debug\net6.0-windows\CrystalCollector.dll
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\bin\Debug\net6.0-windows\CrystalCollector.pdb
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.Form1.resources
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.FrmCreacionPersonaje.resources
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.FrmTablero.resources
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.Properties.Resources.resources
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.AssemblyInfo.cs
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.dll
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\refint\CrystalCollector.dll
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.pdb
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.genruntimeconfig.cache
+\\Mac\Home\Documents\Programacion\proyecto-final-main (1)\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\ref\CrystalCollector.dll
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\bin\Debug\net6.0-windows\CrystalCollector.exe
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\bin\Debug\net6.0-windows\CrystalCollector.deps.json
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\bin\Debug\net6.0-windows\CrystalCollector.runtimeconfig.json
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\bin\Debug\net6.0-windows\CrystalCollector.dll
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\bin\Debug\net6.0-windows\CrystalCollector.pdb
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.csproj.AssemblyReference.cache
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.Form1.resources
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.FrmBatallaEnemigo.resources
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.FrmCreacionPersonaje.resources
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.FrmEstadoPersonaje.resources
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.FrmTablero.resources
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.Properties.Resources.resources
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.csproj.GenerateResource.cache
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.AssemblyInfoInputs.cache
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.AssemblyInfo.cs
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.csproj.CoreCompileInputs.cache
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.dll
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\refint\CrystalCollector.dll
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.pdb
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\CrystalCollector.genruntimeconfig.cache
+C:\Users\Josue Fernando\Documents\Universidad\Tercer Semestre\Programacion I\proyecto-final-main\CrystalCollector\obj\Debug\net6.0-windows\ref\CrystalCollector.dll
